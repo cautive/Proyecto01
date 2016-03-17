@@ -5,10 +5,11 @@
     border: 0;
 }
 body, html {
+
     color: #373C40;
     font-family: Verdana,Arial, Helvetica, sans-serif;
     height: 100%;
-    background-color: #f0f0f0;
+    background-color: #000000;
     margin:10px;
 }
 body {
@@ -32,7 +33,7 @@ h1 {
     color: #000080;
     font-size:18pt;
     background: transparent url(../img/h1.png) no-repeat center left;
-    padding-left:280px;
+    padding-left:320px;
     margin:7px 5px 8px 20px;
 }
 h25 {
